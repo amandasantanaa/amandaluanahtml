@@ -1,0 +1,48 @@
+body
+{
+	width: 100%;
+
+}
+h1{
+	font-weight: 100;
+
+}
+.formu
+{
+	font-size: 13px;
+	font-weight: 700;
+
+}
+label
+{
+	margin: 1%;
+	padding: 1%;
+	display: block;
+}
+input
+{
+	margin: 1%;
+	padding: 1%;
+	display: block;
+}
+#topo
+{
+	margin: 0 auto;
+	text-align: center;
+	
+}
+img
+{
+    width: 10%;
+
+}
+
+form
+{
+	font-family: "Amazon Ember",Arial,sans-serif;
+	margin: 1%;
+	padding: 2%;
+	border: 1px solid #ddd;
+	margin: 0 auto;
+	width: 22%;		
+}
